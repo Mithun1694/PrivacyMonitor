@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Privacy Shield</string>
+    <string name="accessibility_description">This service monitors hardware usage (Camera, Microphone, GPS) by other apps to provide real-time privacy alerts.</string>
+</resources>
