@@ -1,8 +1,8 @@
-# Privacy Shield 🛡️
+# Privacy Shield 
 
 Privacy Shield is a proactive privacy monitoring application for Android. It tracks and logs when other applications on your device access sensitive hardware components like the **Camera**, **Microphone**, and **GPS (Location)**, providing you with full transparency over your device's privacy.
 
-## Features ✨
+## Features 
 
 - **Live Status Dashboard**: Real-time indicators showing if your Camera, Microphone, or GPS is currently in use.
 - **Detailed Usage History**: A persistent log of hardware access events, including:
@@ -17,17 +17,17 @@ Privacy Shield is a proactive privacy monitoring application for Android. It tra
 - **Battery Optimization Bypass**: Built-in guidance to ensure the service stays active in the background.
 - **Permission Gateway**: A streamlined setup process to ensure all necessary privacy protections are enabled.
 
-## Screenshots 📱
+## Screenshots 
 
 *(Add your screenshots here)*
 
-## How It Works 🔍
+## How It Works 
 
 1. **Monitoring**: The app uses system-level callbacks (`CameraManager`, `AudioManager`, `GnssStatus`) to detect hardware engagement.
 2. **Identification**: When hardware usage is detected, Privacy Shield queries the `AccessibilityService` and `UsageStatsManager` to identify the foreground or most recently active application.
 3. **Logging**: All events are stored locally in a secure **Room Database**.
 
-## Installation & Setup 🚀
+## Installation & Setup 
 
 1. Clone the repository.
 2. Build and install the APK using Android Studio.
@@ -39,7 +39,7 @@ Privacy Shield is a proactive privacy monitoring application for Android. It tra
     - **Usage Access**: As a fallback for background app identification.
     - **Battery Optimization**: Exemption to allow consistent background monitoring.
 
-## Technical Stack 🛠️
+## Technical Stack 
 
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose
@@ -47,11 +47,9 @@ Privacy Shield is a proactive privacy monitoring application for Android. It tra
 - **Background Processing**: Foreground Services
 - **Architecture**: MVVM / Flow
 
-## Compatibility 📱
+## Compatibility 
 
 - **Minimum SDK**: Android 13 (API 33)
 - **Target SDK**: Android 15 (API 35)
 
-## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
