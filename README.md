@@ -54,7 +54,7 @@ Privacy Shield is a proactive privacy monitoring application for Android. It tra
 
 ## Compatibility 
 
-- **Minimum SDK**: Android 13 (API 33)
+- **Minimum SDK**: Android 9 (API 28)
 - **Target SDK**: Android 15 (API 35)
 
 
