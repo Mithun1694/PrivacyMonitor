@@ -19,7 +19,12 @@ Privacy Shield is a proactive privacy monitoring application for Android. It tra
 
 ## Screenshots 
 
-*(Add your screenshots here)*
+![WhatsApp Image 2026-03-09 at 5 05 10 PM](https://github.com/user-attachments/assets/4f0abdac-f565-48dc-9361-dfe85fb67b3f)
+
+![WhatsApp Image 2026-03-09 at 5 05 10 PM (1)](https://github.com/user-attachments/assets/c7c08fbb-7f01-4fd7-99f2-93fb39905903)
+
+![WhatsApp Image 2026-03-09 at 5 05 11 PM](https://github.com/user-attachments/assets/b4fcb942-f2cd-4069-88f6-85859d4fe54e)
+
 
 ## How It Works 
 
